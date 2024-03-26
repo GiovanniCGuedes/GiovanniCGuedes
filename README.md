@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiovanniCGuedes
-- 👀 I’m interested in ServiceNow, React.Js/Next.Js and .Net
-- 🌱 I’m currently learning ServceNow and JavaScript
+- 👀 I’m interested in .Net and DevOps stuffs.
+- 🌱 I’m currently learning C# and .Net.
 - 💞️ I’m looking to collaborate in programming area
 - 📫 How to reach me my linkedIn --> https://www.linkedin.com/in/giovanni-guedes-dev
 
